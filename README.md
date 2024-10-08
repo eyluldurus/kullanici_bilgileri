@@ -2,4 +2,6 @@
 
 Merhaba 
 
-Bu projede Visual Code kullanıldı
+Bu projede Visual Code kullanıldı.
+dotnet kullanıldı
+
